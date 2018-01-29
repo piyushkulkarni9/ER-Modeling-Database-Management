@@ -1,2 +1,2 @@
 # ER-Modeling-Database-Management
-THis repo contains some of the ER models I designed.
+This repo contains some of the ER models I designed.
