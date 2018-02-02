@@ -1,1 +1,8 @@
 This repo contains ER model for an electronic store database.
+
+Project Scope:
+•	Vendor of the product ships the appliances to warehouses only.
+•	Sometimes customer can go to the showroom and buy the product directly without any assistance from any associate and there will be no commission in this case.
+•	There is only one direct supervisor to a technician.
+•	Installation is made at the time of delivery only.
+•	If, the technician status is trainee, he will be accompanied by his supervisor; this logic is implemented in the frontend code when a technician gets assigned to a delivery.
