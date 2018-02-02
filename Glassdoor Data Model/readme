@@ -1,1 +1,8 @@
 This repo contains simplified ER model for Glasdoor website's database.
+
+Project Scope:
+A User can Sign up, search and apply for jobs.
+User can leave reviews for Employers.
+User can leave reviews for Job titles.
+User can give Salary details, Benefits review and Interview questions.
+Employers can Sign up and post jobs.
