@@ -1,8 +1,8 @@
 This repo contains ER model for an electronic store database.
 
 Project Scope:
-•	Vendor of the product ships the appliances to warehouses only.
-•	Sometimes customer can go to the showroom and buy the product directly without any assistance from any associate and there will be no commission in this case.
-•	There is only one direct supervisor to a technician.
-•	Installation is made at the time of delivery only.
-•	If, the technician status is trainee, he will be accompanied by his supervisor; this logic is implemented in the frontend code when a technician gets assigned to a delivery.
+Store wants to create a database that will keep track of all aspects of its appliance business, including (but not limited to) its appliances,
+showrooms, warehouses, manufacturers, inventory of appliances, shipments it receives, sales, orders, sales associates, customers, technicians (including who the trainees and their mentors are),
+deliveries and installations (who, for whom and when) and so on. 
+Store specifically wants to use this database to produce invoices for sales, deliveries and installations. It also wants to be able to keep track of its inventories in showrooms and warehouses. 
+The database will be used to determine and store the schedule of deliveries and installations as well as technician assignments.
