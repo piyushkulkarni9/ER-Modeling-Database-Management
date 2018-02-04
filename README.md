@@ -1,2 +1,1 @@
-# ER-Modeling-Database-Management
-This repo contains some of the ER models I designed.
+The repo contains ER models I designed using Erwin Datamodeler.
